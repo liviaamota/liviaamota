@@ -1,4 +1,3 @@
 <p align="center">
-  <img src="<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/e6595a3c-09c9-4d83-83ab-d1225aa3829b" />
-" width="300">
+  <img src="https://i.pinimg.com/originals/dd/41/78/dd4178a45e6e3210c9d57e8cb1ab4ca3.gif" alt="Coding GIF" />
 </p>
